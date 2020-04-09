@@ -1,0 +1,3 @@
+rootProject.name='SpeexSimple'
+include ':app'
+include ':SpeexLib'
